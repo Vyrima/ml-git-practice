@@ -7,6 +7,7 @@ What We Learned
 - We learned random forest today.
 - We learned how to clone repositories into VS Code.
 - We learned how to push my works and pull partners' works.
+- We learned how to add other people as contributors in GitHub
 
 Student Names
 
