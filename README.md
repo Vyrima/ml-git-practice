@@ -6,6 +6,7 @@ What We Learned
 - We learned how Git branching works.
 - We learned random forest today.
 - We learned how to clone repositories into VS Code.
+- We learned how to push my works and pull partners' works.
 
 Student Names
 
